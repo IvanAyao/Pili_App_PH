@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T19:53:10+00:00",
+ "generated_at": "2026-10-04T21:08:53+00:00",
  "datasets": [
   {
    "key": "senate",
@@ -7,7 +7,7 @@
    "source": "Senate of the Philippines",
    "source_url": "https://senate.gov.ph/senators/20-congress-senators",
    "count": 24,
-   "scraped_at": "2026-10-01T06:33:36+00:00",
+   "scraped_at": "2026-10-04T20:57:17+00:00",
    "source_type": "official"
   },
   {
@@ -17,7 +17,7 @@
    "source_url": "https://github.com/bettergovph/open-congress-data",
    "source_type": "public",
    "count": 1330,
-   "scraped_at": "2026-10-01T06:34:06+00:00",
+   "scraped_at": "2026-10-04T21:08:00+00:00",
    "as_of": "2025-10-16"
   },
   {
@@ -26,7 +26,7 @@
    "source": "Wikipedia (unofficial)",
    "source_url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_House_of_Representatives_of_the_Philippines",
    "count": 317,
-   "scraped_at": "2026-09-30T11:55:51+00:00",
+   "scraped_at": "2026-10-04T21:08:46+00:00",
    "source_type": "public"
   },
   {
@@ -35,7 +35,7 @@
    "source": "DILG Region X (Northern Mindanao) – Local Officials 2025–2028 + Wikipedia + OpenHalalan",
    "source_url": "https://github.com/RobertRLeung/OpenHalalan",
    "count": 17580,
-   "scraped_at": "2026-09-30T22:57:53+00:00",
+   "scraped_at": "2026-10-04T21:08:53+00:00",
    "source_type": "official+public"
   },
   {
@@ -53,7 +53,7 @@
    "source": "Wikidata (public, CC0)",
    "source_url": "https://www.wikidata.org/",
    "count": 32,
-   "scraped_at": "2026-10-01T06:42:22+00:00",
+   "scraped_at": "2026-10-04T21:08:45+00:00",
    "source_type": "public"
   }
  ]

@@ -1,11 +1,11 @@
 {
  "dataset": "executive",
  "source_url": "https://www.wikidata.org/",
- "scraped_at": "2026-10-01T06:42:22+00:00",
+ "scraped_at": "2026-10-04T21:08:45+00:00",
  "count": 32,
  "method": "public",
  "source_label": "Wikidata (public, CC0)",
- "fetched_at": "2026-10-01T06:42:22+00:00",
+ "fetched_at": "2026-10-04T21:08:45+00:00",
  "records": [
   {
    "id": "president-nationwide-bongbong-marcos",
@@ -1295,7 +1295,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Rodrigo Roa Duterte is a Filipino former politician who served as the 16th president of the Philippines from 2016 to 2022. He served as mayor of Davao City for three non-consecutive terms between 1988 and 2016. Duterte is the first Philippine president from Mindanao, and the oldest person to assume office, beginning his term at age 71. Duterte is the chairman of PDP–Laban, the ruling party during his presidency.",
+   "summary": "Rodrigo Roa Duterte is a Filipino politician who served as the 16th president of the Philippines from 2016 to 2022. He served as mayor of Davao City for three non-consecutive terms between 1988 and 2016. Duterte is the first Philippine president from Mindanao, and the oldest person to assume office, beginning his term at age 71. Duterte is the chairman of PDP–Laban, the ruling party during his presidency.",
    "summary_source": "https://en.wikipedia.org/wiki/Rodrigo_Duterte",
    "laws_signed": 703,
    "laws_lapsed": 161,

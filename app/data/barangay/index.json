@@ -1,8 +1,8 @@
 {
  "dataset": "barangay",
  "source_url": "https://www.dilg.gov.ph/barangay-officials-directory",
- "scraped_at": "2026-10-04T19:49:16+00:00",
- "count": 3370,
+ "scraped_at": "2026-10-05T22:56:06+00:00",
+ "count": 4784,
  "files": [
   {
    "file": "barangay/region-iii-central-luzon--aurora.json",
@@ -21,6 +21,94 @@
     "San Luis"
    ],
    "scraped_at": "2026-10-04T19:49:16+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--baler.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 120,
+   "barangays": 13,
+   "lgus": [
+    "Baler"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--casiguran.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 228,
+   "barangays": 24,
+   "lgus": [
+    "Casiguran"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--dilasag.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 102,
+   "barangays": 11,
+   "lgus": [
+    "Dilasag"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--dinalungan.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 83,
+   "barangays": 9,
+   "lgus": [
+    "Dinalungan"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--dingalan.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 99,
+   "barangays": 11,
+   "lgus": [
+    "Dingalan"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--dipaculao.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 239,
+   "barangays": 25,
+   "lgus": [
+    "Dipaculao"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--maria-aurora.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 375,
+   "barangays": 40,
+   "lgus": [
+    "Maria Aurora"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
+  },
+  {
+   "file": "barangay/region-iii-central-luzon--san-luis.json",
+   "region": "Region III (Central Luzon)",
+   "province": "",
+   "count": 168,
+   "barangays": 18,
+   "lgus": [
+    "San Luis"
+   ],
+   "scraped_at": "2026-10-05T22:56:06+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--bukidnon.json",
@@ -52,7 +140,7 @@
     "Talakag",
     "Valencia City"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--cagayan-de-oro-city.json",
@@ -63,7 +151,7 @@
    "lgus": [
     "Cagayan de Oro City"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--camiguin.json",
@@ -78,7 +166,7 @@
     "Mambajao",
     "Sagay"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--iligan-city.json",
@@ -89,7 +177,7 @@
    "lgus": [
     "Iligan City"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--lanao-del-norte.json",
@@ -121,7 +209,7 @@
     "Tangcal",
     "Tubod"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--misamis-occidental.json",
@@ -148,7 +236,7 @@
     "Tangub City",
     "Tudela"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--misamis-oriental.json",
@@ -183,7 +271,7 @@
     "Talisayan",
     "Villanueva"
    ],
-   "scraped_at": "2026-10-04T19:49:08+00:00"
+   "scraped_at": "2026-10-05T22:55:52+00:00"
   }
  ]
 }

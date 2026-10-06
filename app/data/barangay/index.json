@@ -1,7 +1,7 @@
 {
  "dataset": "barangay",
  "source_url": "https://www.dilg.gov.ph/barangay-officials-directory",
- "scraped_at": "2026-10-05T22:56:06+00:00",
+ "scraped_at": "2026-10-06T21:19:22+00:00",
  "count": 4784,
  "files": [
   {
@@ -31,7 +31,7 @@
    "lgus": [
     "Baler"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--casiguran.json",
@@ -42,7 +42,7 @@
    "lgus": [
     "Casiguran"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--dilasag.json",
@@ -53,7 +53,7 @@
    "lgus": [
     "Dilasag"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--dinalungan.json",
@@ -64,7 +64,7 @@
    "lgus": [
     "Dinalungan"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--dingalan.json",
@@ -75,7 +75,7 @@
    "lgus": [
     "Dingalan"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--dipaculao.json",
@@ -86,7 +86,7 @@
    "lgus": [
     "Dipaculao"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--maria-aurora.json",
@@ -97,7 +97,7 @@
    "lgus": [
     "Maria Aurora"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-iii-central-luzon--san-luis.json",
@@ -108,7 +108,7 @@
    "lgus": [
     "San Luis"
    ],
-   "scraped_at": "2026-10-05T22:56:06+00:00"
+   "scraped_at": "2026-10-06T21:19:22+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--bukidnon.json",
@@ -140,7 +140,7 @@
     "Talakag",
     "Valencia City"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--cagayan-de-oro-city.json",
@@ -151,7 +151,7 @@
    "lgus": [
     "Cagayan de Oro City"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--camiguin.json",
@@ -166,7 +166,7 @@
     "Mambajao",
     "Sagay"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--iligan-city.json",
@@ -177,7 +177,7 @@
    "lgus": [
     "Iligan City"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--lanao-del-norte.json",
@@ -209,7 +209,7 @@
     "Tangcal",
     "Tubod"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--misamis-occidental.json",
@@ -236,7 +236,7 @@
     "Tangub City",
     "Tudela"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   },
   {
    "file": "barangay/region-x-northern-mindanao--misamis-oriental.json",
@@ -271,7 +271,7 @@
     "Talisayan",
     "Villanueva"
    ],
-   "scraped_at": "2026-10-05T22:55:52+00:00"
+   "scraped_at": "2026-10-06T21:19:08+00:00"
   }
  ]
 }

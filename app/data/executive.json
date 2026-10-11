@@ -1,11 +1,11 @@
 {
  "dataset": "executive",
  "source_url": "https://www.wikidata.org/",
- "scraped_at": "2026-10-04T21:08:45+00:00",
+ "scraped_at": "2026-10-11T22:08:30+00:00",
  "count": 32,
  "method": "public",
  "source_label": "Wikidata (public, CC0)",
- "fetched_at": "2026-10-04T21:08:45+00:00",
+ "fetched_at": "2026-10-11T22:08:30+00:00",
  "records": [
   {
    "id": "president-nationwide-bongbong-marcos",
@@ -1969,7 +1969,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Salvador Roman Hidalgo Laurel, also known as Doy Laurel, was a Filipino lawyer and politician who served as the Vice President of the Philippines from 1986 to 1992 under President Corazon Aquino and briefly served as the last Prime Minister from February 25 to March 25, 1986, when the position was abolished. He was a major leader of the United Nationalist Democratic Organization (UNIDO), the political party that helped topple the regime of President Ferdinand Marcos with the 1986 People Power Revolution.",
+   "summary": "Salvador Roman \"Doy\" Hidalgo Laurel was a Filipino lawyer and politician who served as the Vice President of the Philippines from 1986 to 1992 under President Corazon Aquino and briefly served as the last Prime Minister from February 25 to March 25, 1986, when the position was abolished. He was a major leader of the United Nationalist Democratic Organization (UNIDO), the political party that helped topple the regime of President Ferdinand Marcos with the 1986 People Power Revolution.",
    "summary_source": "https://en.wikipedia.org/wiki/Salvador_Laurel"
   },
   {

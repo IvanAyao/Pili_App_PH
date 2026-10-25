@@ -1,10 +1,10 @@
 {
  "dataset": "house",
  "source_url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_House_of_Representatives_of_the_Philippines",
- "scraped_at": "2026-10-18T20:51:31+00:00",
+ "scraped_at": "2026-10-25T21:02:08+00:00",
  "count": 317,
  "method": "wikipedia",
- "wikipedia_revision": "1380869784",
+ "wikipedia_revision": "1381380052",
  "records": [
   {
    "id": "house-abra-abra-at-large-joseph-bernos",
@@ -27,7 +27,7 @@
     "born": "October 6, 1978",
     "prior_experience": "House of Representatives; Mayor of La Paz; Vice Mayor of La Paz; La Paz Municipal Council; La Paz Sangguniang Kabataan Federation President",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -52,7 +52,7 @@
     "born": "June 27, 1955",
     "prior_experience": "Governor of Agusan del Norte; Mayor of Cabadbaran; Vice Governor of Agusan del Norte; Agusan del Norte Provincial Board; Cabadbaran Municipal Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -76,7 +76,7 @@
     "bloc": "Majority",
     "born": "September 8, 1972",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -101,7 +101,7 @@
     "born": "August 21, 1962",
     "prior_experience": "Industrial engineer; Governor of Agusan del Sur",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -126,7 +126,7 @@
     "born": "May 17, 1970",
     "prior_experience": "Businessman; House of Representatives staff",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -151,7 +151,7 @@
     "born": "July 1, 1951",
     "prior_experience": "Businessman; Governor of Aklan; House of Representatives; Mayor of Ibajay",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -176,7 +176,7 @@
     "born": "November 9, 1968",
     "prior_experience": "Public health practitioner; Mayor of Tabaco; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -201,7 +201,7 @@
     "born": "November 12, 1965",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -226,7 +226,7 @@
     "born": "February 1, 1993",
     "prior_experience": "Mayor of Polangui; Polangui Association of Barangay Captains President; Albay Sangguniang Kabataan Federation President",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -251,7 +251,7 @@
     "born": "April 25, 1948",
     "prior_experience": "Secretary of the Interior and Local Government; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -276,7 +276,7 @@
     "born": "April 13, 1974",
     "prior_experience": "Physician; Antipolo City Council",
     "took_office": "March 16, 2026",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -300,7 +300,7 @@
     "bloc": "Majority",
     "born": "December 8, 1968",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -325,7 +325,7 @@
     "born": "February 28, 1964",
     "prior_experience": "Governor of Apayao; House of Representatives; Mayor of Calanasan",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -350,7 +350,7 @@
     "born": "December 19, 1978",
     "prior_experience": "Vice Governor of Aurora; House of Representatives staff",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -375,7 +375,7 @@
     "born": "December 20, 1966",
     "prior_experience": "Businessman; Mayor of Bacolod; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -400,7 +400,7 @@
     "born": "October 10, 1946",
     "prior_experience": "Lawyer; Mayor of Baguio; House of Representatives; Vice Mayor of Baguio; Baguio City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -425,7 +425,7 @@
     "born": "June 9, 1976",
     "prior_experience": "Vice Governor of Basilan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -450,7 +450,7 @@
     "born": "June 3, 1968",
     "prior_experience": "Lawyer; Bataan Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -475,7 +475,7 @@
     "born": "February 1, 1970",
     "prior_experience": "Governor of Bataan; House of Representatives; Mayor of Balanga",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -500,7 +500,7 @@
     "born": "February 17, 1968",
     "prior_experience": "Mayor of Dinalupihan; Consultant; Subic Bay Metropolitan Authority Board of Directors",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -525,7 +525,7 @@
     "born": "March 18, 1993",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -550,7 +550,7 @@
     "born": "October 3, 1975",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -575,7 +575,7 @@
     "born": "October 11, 1980",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -600,7 +600,7 @@
     "born": "November 3, 1966",
     "prior_experience": "Businessman; Batangas Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -625,7 +625,7 @@
     "born": "October 3, 1971",
     "prior_experience": "Mayor of Batangas City",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -650,7 +650,7 @@
     "born": "March 29, 1996",
     "prior_experience": "Entrepreneur",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -674,7 +674,7 @@
     "bloc": "Majority",
     "born": "May 11, 1979",
     "took_office": "July 3, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -699,7 +699,7 @@
     "born": "August 7, 1970",
     "prior_experience": "Governor of Biliran; House of Representatives; Mayor of Naval",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -724,7 +724,7 @@
     "born": "October 9, 1971",
     "prior_experience": "Lawyer; Mayor of Biñan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -749,7 +749,7 @@
     "born": "October 16, 1977",
     "prior_experience": "Entrepreneur; Mayor of Tagbilaran; Tagbilaran City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -774,7 +774,7 @@
     "born": "May 21, 1981",
     "prior_experience": "Businesswoman; Registered nurse",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -799,7 +799,7 @@
     "born": "January 24, 1980",
     "prior_experience": "Physical Therapist; Bohol Provincial Board",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -823,7 +823,7 @@
     "bloc": "Majority",
     "born": "May 12, 1975",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -848,7 +848,7 @@
     "born": "April 16, 1972",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -864,7 +864,7 @@
    "lgu": "",
    "barangay": "",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Rep._Audrey_Kay_Zubiri_%2820th_Congress%29.jpg/120px-Rep._Audrey_Kay_Zubiri_%2820th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-   "profile_url": "",
+   "profile_url": "https://en.wikipedia.org/wiki/Audrey_Zubiri",
    "contact": "",
    "source": "Wikipedia (unofficial)",
    "source_url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_House_of_Representatives_of_the_Philippines",
@@ -873,7 +873,7 @@
     "born": "October 11, 1982",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -898,7 +898,7 @@
     "born": "September 18, 1971",
     "prior_experience": "Teacher",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -923,7 +923,7 @@
     "born": "December 24, 1951",
     "prior_experience": "Lawyer; Mayor of Malolos; Vice Mayor of Malolos",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -948,7 +948,7 @@
     "born": "August 4, 1964",
     "prior_experience": "Businesswoman; House of Representatives staff",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -973,7 +973,7 @@
     "born": "August 28, 1984",
     "prior_experience": "Businessman; Mayor of San Rafael; Bulacan Association of Barangay Captains President",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -998,7 +998,7 @@
     "born": "July 25, 1948",
     "prior_experience": "Mayor of Meycauayan; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1023,7 +1023,7 @@
     "born": "October 1, 1980",
     "prior_experience": "Lawyer; Mayor of Guiguinto",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1048,7 +1048,7 @@
     "born": "March 22, 1942",
     "prior_experience": "Civil engineer; Businessman; Department of Public Works and Highways Undersecretary",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1073,7 +1073,7 @@
     "born": "March 18, 1956",
     "prior_experience": "Vice Mayor of Butuan; House of Representatives; Butuan City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1098,7 +1098,7 @@
     "born": "July 21, 1949",
     "prior_experience": "Lawyer; House of Representatives; Cagayan Provincial Board; Mayor of Gattaran",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1123,7 +1123,7 @@
     "born": "December 5, 1962",
     "prior_experience": "House of Representatives; Vice Mayor of Abulug",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1147,7 +1147,7 @@
     "bloc": "Majority",
     "born": "July 19, 1966",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1172,7 +1172,7 @@
     "born": "July 22, 1983",
     "prior_experience": "Cagayan de Oro City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1197,7 +1197,7 @@
     "born": "September 13, 1953",
     "prior_experience": "Lawyer; House of Representatives; Vice Governor of Misamis Oriental; Misamis Oriental Provincial Board",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1222,7 +1222,7 @@
     "born": "September 8, 1993",
     "prior_experience": "Calamba City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1247,7 +1247,7 @@
     "born": "June 14, 1955",
     "prior_experience": "Mayor of Caloocan; House of Representatives; Vice Mayor of Caloocan; Caloocan City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1272,7 +1272,7 @@
     "born": "June 15, 1960",
     "prior_experience": "Businessman; House of Representatives; Vice Mayor of Caloocan; Caloocan City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1297,7 +1297,7 @@
     "born": "August 26, 1989",
     "prior_experience": "Caloocan City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1321,7 +1321,7 @@
     "bloc": "Majority",
     "born": "May 7, 1969",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1345,7 +1345,7 @@
     "bloc": "Majority",
     "born": "January 18, 1985",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1370,7 +1370,7 @@
     "born": "June 5, 1993",
     "prior_experience": "Baseball player",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1395,7 +1395,7 @@
     "born": "November 7, 1996",
     "prior_experience": "Businessman; Governor of Camarines Sur",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1420,7 +1420,7 @@
     "born": "March 1, 1968",
     "prior_experience": "Lawyer; Mayor of Naga; Vice Mayor of Naga; Naga City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1445,7 +1445,7 @@
     "born": "January 29, 1976",
     "prior_experience": "Businessman; Mayor of Tigaon",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1470,7 +1470,7 @@
     "born": "January 21, 1989",
     "prior_experience": "Businessman; Governor of Camarines Sur",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1495,7 +1495,7 @@
     "born": "July 29, 1960",
     "prior_experience": "Governor of Camiguin; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1519,7 +1519,7 @@
     "bloc": "Majority",
     "born": "April 27, 1988",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1544,7 +1544,7 @@
     "born": "October 21, 1958",
     "prior_experience": "House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1569,7 +1569,7 @@
     "born": "May 10, 1959",
     "prior_experience": "Mayor of Bato",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1594,7 +1594,7 @@
     "born": "March 15, 1988",
     "prior_experience": "Actor; Vice Governor of Cavite",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1619,7 +1619,7 @@
     "born": "April 13, 1968",
     "prior_experience": "Actress; Mayor of Bacoor; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1644,7 +1644,7 @@
     "born": "October 20, 1993",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1669,7 +1669,7 @@
     "born": "September 22, 1975",
     "prior_experience": "Registered nurse; Mayor of Dasmariñas; House of Representatives",
     "took_office": "September 1, 2026",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1694,7 +1694,7 @@
     "born": "February 17, 1962",
     "prior_experience": "Lawyer; Mayor of Carmona; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1719,7 +1719,7 @@
     "born": "November 10, 1966",
     "prior_experience": "Mayor of General Trias; House of Representatives of the Philippines",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1744,7 +1744,7 @@
     "born": "September 28, 1990",
     "prior_experience": "Cavite Provincial Board; Indang Municipal Council",
     "took_office": "February 28, 2023",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1769,7 +1769,7 @@
     "born": "May 8, 1996",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1793,7 +1793,7 @@
     "bloc": "Majority",
     "born": "August 9, 1988",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1818,7 +1818,7 @@
     "born": "March 12, 1959",
     "prior_experience": "Civil engineer; Cebu Provincial Board; Mayor of Argao",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1843,7 +1843,7 @@
     "born": "November 8, 1974",
     "prior_experience": "Communications consultant",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1868,7 +1868,7 @@
     "born": "December 3, 1982",
     "prior_experience": "Mayor of Daanbantayan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1893,7 +1893,7 @@
     "born": "October 27, 1980",
     "prior_experience": "Mayor of Liloan",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1917,7 +1917,7 @@
     "bloc": "Majority",
     "born": "November 29, 1978",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1942,7 +1942,7 @@
     "born": "September 12, 1963",
     "prior_experience": "Physician",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1967,7 +1967,7 @@
     "born": "November 3, 1966",
     "prior_experience": "House of Representatives staff; Movie and Television Review and Classification Board; Cultural Center of the Philippines Board of Directors",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -1992,7 +1992,7 @@
     "born": "December 2, 1978",
     "prior_experience": "Cebu City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2017,7 +2017,7 @@
     "born": "May 19, 1962",
     "prior_experience": "Physician",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2042,7 +2042,7 @@
     "born": "June 5, 1962",
     "prior_experience": "Mayor of Makilala; Philippine Army",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2067,7 +2067,7 @@
     "born": "March 24, 1997",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2092,7 +2092,7 @@
     "born": "March 24, 1975",
     "prior_experience": "Vice Mayor of Davao City; Liga ng mga Barangay National Vice President for Mindanao; Davao City Association of Barangay Captains President",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2117,7 +2117,7 @@
     "born": "January 26, 1994",
     "prior_experience": "Businessman; Barangay captain",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2142,7 +2142,7 @@
     "born": "May 8, 1961",
     "prior_experience": "House of Representatives; Davao City Council",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2167,7 +2167,7 @@
     "born": "May 3, 1974",
     "prior_experience": "House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2192,7 +2192,7 @@
     "born": "December 23, 1979",
     "prior_experience": "Mayor of Pantukan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2217,7 +2217,7 @@
     "born": "January 12, 1985",
     "prior_experience": "Vice Governor of Davao del Norte",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2242,7 +2242,7 @@
     "born": "March 1, 1974",
     "prior_experience": "Industrial engineer; Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2267,7 +2267,7 @@
     "born": "November 13, 1965",
     "prior_experience": "Lawyer; Vice Governor of Davao del Sur; Davao del Sur Provincial Board; Digos City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2292,7 +2292,7 @@
     "born": "January 17, 1960",
     "prior_experience": "Businessman; Governor of Davao Occidental; Governor of Davao del Sur; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2317,7 +2317,7 @@
     "born": "June 17, 1993",
     "prior_experience": "Vice Governor of Davao Oriental",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2342,7 +2342,7 @@
     "born": "January 14, 1993",
     "prior_experience": "Mati City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2367,7 +2367,7 @@
     "born": "July 3, 1969",
     "prior_experience": "Lawyer; Governor of Dinagat Islands; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2392,7 +2392,7 @@
     "born": "May 7, 1980",
     "prior_experience": "Businessman; Mayor of Guiuan; Vice Governor of Eastern Samar",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2417,7 +2417,7 @@
     "born": "June 28, 1974",
     "prior_experience": "Businesswoman; House of Representatives; Vice Mayor of General Santos; General Santos City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2442,7 +2442,7 @@
     "born": "November 19, 1962",
     "prior_experience": "Physician; Governor of Guimaras; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2467,7 +2467,7 @@
     "born": "December 4, 1955",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2492,7 +2492,7 @@
     "born": "January 9, 1961",
     "prior_experience": "Mayor of Iligan",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2517,7 +2517,7 @@
     "born": "March 7, 1994",
     "prior_experience": "House of Representatives staff; Consultant",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2542,7 +2542,7 @@
     "born": "December 13, 1958",
     "prior_experience": "Vice Governor of Ilocos Norte",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2567,7 +2567,7 @@
     "born": "November 18, 1968",
     "prior_experience": "Businessman; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2592,7 +2592,7 @@
     "born": "November 21, 1973",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2617,7 +2617,7 @@
     "born": "December 11, 1972",
     "prior_experience": "Physician; Secretary of Health; House of Representatives",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2642,7 +2642,7 @@
     "born": "August 12, 1980",
     "prior_experience": "Physician",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2667,7 +2667,7 @@
     "born": "July 24, 1977",
     "prior_experience": "Lawyer; Iloilo Provincial Board",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2692,7 +2692,7 @@
     "born": "December 26, 1964",
     "prior_experience": "Businessman; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2717,7 +2717,7 @@
     "born": "April 11, 1979",
     "prior_experience": "Iloilo Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2742,7 +2742,7 @@
     "born": "February 16, 1978",
     "prior_experience": "Senate staff; Iloilo City Sangguniang Kabataan Federation President",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2767,7 +2767,7 @@
     "born": "November 26, 1965",
     "prior_experience": "Vice Governor of Isabela; Radio Philippines Network President and Chairman",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2791,7 +2791,7 @@
     "bloc": "Majority",
     "born": "June 30, 1989",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2816,7 +2816,7 @@
     "born": "May 31, 1981",
     "prior_experience": "Mayor of Alicia; Vice Mayor of Alicia; Alicia Municipal Council",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2841,7 +2841,7 @@
     "born": "October 21, 1963",
     "prior_experience": "Civil engineer; Mayor of Santiago",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2866,7 +2866,7 @@
     "born": "September 17, 1979",
     "prior_experience": "Mayor of San Manuel",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2891,7 +2891,7 @@
     "born": "August 31, 1961",
     "prior_experience": "Vice Governor of Isabela; Governor of Isabela; House of Representatives; Mayor of Cauayan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2916,7 +2916,7 @@
     "born": "December 24, 1969",
     "prior_experience": "Physician",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2941,7 +2941,7 @@
     "born": "April 14, 1984",
     "prior_experience": "San Fernando City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2966,7 +2966,7 @@
     "born": "November 22, 1971",
     "prior_experience": "Registered nurse",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -2991,7 +2991,7 @@
     "born": "January 26, 1984",
     "prior_experience": "Laguna Provincial Board",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3016,7 +3016,7 @@
     "born": "July 26, 1972",
     "prior_experience": "Governor of Laguna; Vice Governor of Laguna; Laguna Provincial Board; Calamba City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3041,7 +3041,7 @@
     "born": "September 1, 1982",
     "prior_experience": "Mayor of San Pablo",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3066,7 +3066,7 @@
     "born": "October 1, 1957",
     "prior_experience": "Businessman; House of Representatives; Laguna Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3091,7 +3091,7 @@
     "born": "January 15, 1959",
     "prior_experience": "Governor of Lanao del Norte; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3115,7 +3115,7 @@
     "bloc": "Majority",
     "born": "August 27, 1986",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3140,7 +3140,7 @@
     "born": "January 16, 1979",
     "prior_experience": "Bangsamoro Parliament; ARMM Regional Legislative Assembly",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3165,7 +3165,7 @@
     "born": "February 28, 1974",
     "prior_experience": "ARMM Regional Legislative Assembly; Vice Governor of Lanao del Sur",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3190,7 +3190,7 @@
     "born": "September 8, 1968",
     "prior_experience": "Mayor of Lapu-Lapu City; Barangay captain; Lapu-Lapu City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3215,7 +3215,7 @@
     "born": "June 14, 1963",
     "prior_experience": "Las Piñas City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3240,7 +3240,7 @@
     "born": "November 14, 1963",
     "prior_experience": "Businessman; Lawyer; House of Representatives",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3264,7 +3264,7 @@
     "bloc": "Majority",
     "born": "February 20, 1975",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3289,7 +3289,7 @@
     "born": "September 3, 1978",
     "prior_experience": "Lawyer; Leyte Provincial Board",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3314,7 +3314,7 @@
     "born": "April 7, 1966",
     "prior_experience": "Actor and TV host; Mayor of Ormoc",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3339,7 +3339,7 @@
     "born": "July 4, 1992",
     "prior_experience": "Manufacturing engineer; Baybay Association of Barangay Captains President; Baybay Sangguniang Kabataan Federation President",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3364,7 +3364,7 @@
     "born": "November 27, 1990",
     "prior_experience": "Bangsamoro Parliament",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3389,7 +3389,7 @@
     "born": "August 15, 1968",
     "prior_experience": "House of Representatives; Governor of Maguindanao; Vice Mayor of Buluan; Mayor of Buluan; Maguindanao Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3414,7 +3414,7 @@
     "born": "July 25, 1975",
     "prior_experience": "Vice Mayor of Makati; House of Representatives; Makati City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3439,7 +3439,7 @@
     "born": "April 27, 1971",
     "prior_experience": "Makati City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3464,7 +3464,7 @@
     "born": "September 16, 1971",
     "prior_experience": "Businessman; Mayor of Malabon; Vice Mayor of Malabon; Malabon City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3489,7 +3489,7 @@
     "born": "November 13, 1977",
     "prior_experience": "Businesswoman; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3514,7 +3514,7 @@
     "born": "April 1, 1970",
     "prior_experience": "Mandaue City Council",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3539,7 +3539,7 @@
     "born": "May 22, 1978",
     "prior_experience": "Businessman; Manila City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3564,7 +3564,7 @@
     "born": "December 11, 1964",
     "prior_experience": "Customs broker; Manila City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3589,7 +3589,7 @@
     "born": "August 17, 1972",
     "prior_experience": "Lawyer; Manila City Council; House of Representatives staff; Senate legal consultant",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3614,7 +3614,7 @@
     "born": "August 6, 1970",
     "prior_experience": "Physician",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3639,7 +3639,7 @@
     "born": "November 21, 1980",
     "prior_experience": "Manila City Council; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3664,7 +3664,7 @@
     "born": "July 15, 1951",
     "prior_experience": "Pastor; House of Representatives; Manila City Council",
     "took_office": "July 8, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3689,7 +3689,7 @@
     "born": "August 2, 1970",
     "prior_experience": "Mayor of Marikina; House of Representatives; Marikina City Council",
     "took_office": "July 1, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3714,7 +3714,7 @@
     "born": "December 12, 1969",
     "prior_experience": "Lawyer; House of Representatives; CEO of the Pag-IBIG Fund; House of Representatives staff",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3730,7 +3730,7 @@
    "lgu": "",
    "barangay": "",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rep._Reynaldo_Salvacion_%2820th_Congress%29.jpg/120px-Rep._Reynaldo_Salvacion_%2820th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-   "profile_url": "",
+   "profile_url": "https://en.wikipedia.org/wiki/Reynaldo_Salvacion",
    "contact": "",
    "source": "Wikipedia (unofficial)",
    "source_url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_House_of_Representatives_of_the_Philippines",
@@ -3739,7 +3739,7 @@
     "born": "February 4, 1960",
     "prior_experience": "Businessman; Marinduque Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3764,7 +3764,7 @@
     "born": "January 9, 1958",
     "prior_experience": "Civil engineer; Businessman; Governor of Masbate; House of Representatives; Mayor of Cataingan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3789,7 +3789,7 @@
     "born": "July 1, 1956",
     "prior_experience": "Medical doctor; Businesswoman; Vice Governor of Masbate; House of Representatives; Governor of Masbate",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3814,7 +3814,7 @@
     "born": "May 13, 1986",
     "prior_experience": "Mayor of Cataingan",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3839,7 +3839,7 @@
     "born": "June 20, 1970",
     "prior_experience": "Businessman; Mayor of Oroquieta",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3864,7 +3864,7 @@
     "born": "March 17, 1993",
     "prior_experience": "Businessman; Mayor of Ozamiz",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3889,7 +3889,7 @@
     "born": "February 26, 1976",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3914,7 +3914,7 @@
     "born": "January 29, 1975",
     "prior_experience": "Governor of Misamis Oriental; Mayor of Tagoloan",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3939,7 +3939,7 @@
     "born": "April 10, 1978",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3964,7 +3964,7 @@
     "born": "April 27, 1950",
     "prior_experience": "Businessman; Lawyer; Mayor of Muntinlupa; Vice Mayor of Muntinlupa",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -3989,7 +3989,7 @@
     "born": "November 21, 1967",
     "prior_experience": "Businessman; Mayor of Navotas; House of Representatives; Vice Mayor of Navotas",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4014,7 +4014,7 @@
     "born": "August 1, 1960",
     "prior_experience": "House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4039,7 +4039,7 @@
     "born": "June 26, 1970",
     "prior_experience": "House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4064,7 +4064,7 @@
     "born": "October 8, 1994",
     "prior_experience": "Actor; Mayor of Victorias",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4089,7 +4089,7 @@
     "born": "May 6, 1969",
     "prior_experience": "Vice Governor of Negros Occidental; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4114,7 +4114,7 @@
     "born": "May 20, 1963",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4139,7 +4139,7 @@
     "born": "October 20, 1982",
     "prior_experience": "House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4164,7 +4164,7 @@
     "born": "September 25, 1982",
     "prior_experience": "Mayor of La Libertad",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4189,7 +4189,7 @@
     "born": "March 1, 1960",
     "prior_experience": "Vice Mayor of Dumaguete",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4214,7 +4214,7 @@
     "born": "January 11, 1976",
     "prior_experience": "Mayor of Pamplona",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4239,7 +4239,7 @@
     "born": "May 14, 1993",
     "prior_experience": "Accountant",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4264,7 +4264,7 @@
     "born": "March 3, 1968",
     "prior_experience": "Governor of Northern Samar; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4289,7 +4289,7 @@
     "born": "October 24, 1991",
     "prior_experience": "House of Representatives staff",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4314,7 +4314,7 @@
     "born": "April 1, 1967",
     "prior_experience": "Businessman; Mayor of San Jose",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4339,7 +4339,7 @@
     "born": "January 5, 1960",
     "prior_experience": "Vice Mayor of Cabanatuan",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4364,7 +4364,7 @@
     "born": "October 19, 1972",
     "prior_experience": "Businessman; Mayor of Gapan",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4389,7 +4389,7 @@
     "born": "May 15, 1981",
     "prior_experience": "Lawyer; Mayor of Dupax del Norte; Dupax del Norte Municipal Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4414,7 +4414,7 @@
     "born": "October 2, 1968",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4439,7 +4439,7 @@
     "born": "January 21, 1962",
     "prior_experience": "Lawyer; Mayor of Calapan; Governor of Oriental Mindoro; Vice Governor of Oriental Mindoro",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4464,7 +4464,7 @@
     "born": "April 29, 1955",
     "prior_experience": "Architect; Governor of Oriental Mindoro; House of Representatives",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4489,7 +4489,7 @@
     "born": "December 10, 1963",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4514,7 +4514,7 @@
     "born": "June 29, 1944",
     "prior_experience": "Businessman; President of Partido Demokratiko Pilipino; Governor of Palawan",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4539,7 +4539,7 @@
     "born": "May 10, 1985",
     "prior_experience": "Lawyer; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4564,7 +4564,7 @@
     "born": "August 28, 1969",
     "prior_experience": "Businessman; Angeles City Council; Mayor of Angeles City",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4589,7 +4589,7 @@
     "born": "April 5, 1947",
     "prior_experience": "House of Representatives; President of the Philippines; Vice President of the Philippines; Senator",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4614,7 +4614,7 @@
     "born": "September 11, 1994",
     "prior_experience": "Businesswoman; Pampanga Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4639,7 +4639,7 @@
     "born": "May 11, 1967",
     "prior_experience": "Pulmonologist; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4664,7 +4664,7 @@
     "born": "December 14, 1962",
     "prior_experience": "Mayor of Alaminos; House of Representatives; Alaminos City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4689,7 +4689,7 @@
     "born": "October 6, 1957",
     "prior_experience": "Businessman; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4714,7 +4714,7 @@
     "born": "November 15, 1971",
     "prior_experience": "Movie and Television Review and Classification Board Chairperson; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4739,7 +4739,7 @@
     "born": "February 15, 1949",
     "prior_experience": "Businesswoman; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4764,7 +4764,7 @@
     "born": "December 10, 1953",
     "prior_experience": "Mayor of Binalonan; League of Municipalities President",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4789,7 +4789,7 @@
     "born": "July 23, 1969",
     "prior_experience": "Lawyer; House of Representatives; Vice Governor of Pangasinan; Pangasinan Provincial Board; San Nicolas Municipal Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4814,7 +4814,7 @@
     "born": "October 4, 1970",
     "prior_experience": "Mayor of Parañaque; House of Representatives; Parañaque City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4839,7 +4839,7 @@
     "born": "October 19, 1973",
     "prior_experience": "Government consultant; Deputy Secretary General of the House of Representatives; Office of the Press Secretary staff; Senate staff",
     "took_office": "February 22, 2023",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4864,7 +4864,7 @@
     "born": "May 10, 1954",
     "prior_experience": "Businessman; Mayor of Pasay; Vice Mayor of Pasay; Pasay City Council",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4889,7 +4889,7 @@
     "born": "February 28, 1967",
     "prior_experience": "Lawyer; House of Representatives",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4914,7 +4914,7 @@
     "born": "March 25, 1978",
     "prior_experience": "House of Representatives",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4939,7 +4939,7 @@
     "born": "January 25, 1977",
     "prior_experience": "Governor of Quezon; Vice Governor of Quezon; Unisan Municipal Council",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4964,7 +4964,7 @@
     "born": "January 19, 1972",
     "prior_experience": "Quezon Provincial Board",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -4989,7 +4989,7 @@
     "born": "March 1, 1995",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5014,7 +5014,7 @@
     "born": "November 5, 1990",
     "prior_experience": "Actor; Businessman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5038,7 +5038,7 @@
     "bloc": "Majority",
     "born": "July 12, 1996",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5063,7 +5063,7 @@
     "born": "February 5, 1962",
     "prior_experience": "Professional basketball player and coach; Quezon City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5088,7 +5088,7 @@
     "born": "November 15, 1970",
     "prior_experience": "Lawyer; Businessman; House of Representatives; Quezon City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5113,7 +5113,7 @@
     "born": "January 27, 1982",
     "prior_experience": "Quezon City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5138,7 +5138,7 @@
     "born": "March 25, 1971",
     "prior_experience": "Quezon City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5162,7 +5162,7 @@
     "bloc": "Majority",
     "born": "June 11, 1979",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5187,7 +5187,7 @@
     "born": "October 1, 1976",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5212,7 +5212,7 @@
     "born": "January 12, 1970",
     "prior_experience": "Lawyer; Rizal Provincial Board; President and CEO of the Clark International Airport Corporation",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5237,7 +5237,7 @@
     "born": "March 29, 1969",
     "prior_experience": "Metropolitan Manila Development Authority General Manager",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5262,7 +5262,7 @@
     "born": "July 19, 1984",
     "prior_experience": "Mayor of Rodriguez; Vice Mayor of Rodriguez",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5287,7 +5287,7 @@
     "born": "December 16, 1949",
     "prior_experience": "Lawyer; House of Representatives; Governor of Romblon",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5312,7 +5312,7 @@
     "born": "September 13, 1983",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5337,7 +5337,7 @@
     "born": "November 18, 1988",
     "prior_experience": "Governor of Samar; Vice Governor of Samar",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5362,7 +5362,7 @@
     "born": "November 6, 1963",
     "prior_experience": "Mayor of San Jose del Monte; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5387,7 +5387,7 @@
     "born": "June 8, 1983",
     "prior_experience": "Lawyer; House of Representatives staff",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5412,7 +5412,7 @@
     "born": "October 30, 1971",
     "prior_experience": "Santa Rosa City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5437,7 +5437,7 @@
     "born": "March 3, 1971",
     "prior_experience": "Businessman; Governor of Sarangani; Vice Governor of Sarangani",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5462,7 +5462,7 @@
     "born": "September 3, 1959",
     "prior_experience": "Businessman; Governor of Siquijor",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5486,7 +5486,7 @@
     "bloc": "Majority",
     "born": "May 7, 1978",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5511,7 +5511,7 @@
     "born": "February 24, 1965",
     "prior_experience": "Lawyer; Vice Governor of Sorsogon; Mayor of Barcelona",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5536,7 +5536,7 @@
     "born": "May 15, 1954",
     "prior_experience": "Mayor of Polomolok",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5561,7 +5561,7 @@
     "born": "September 12, 1966",
     "prior_experience": "Lawyer; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5586,7 +5586,7 @@
     "born": "October 25, 1971",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5611,7 +5611,7 @@
     "born": "August 29, 1951",
     "prior_experience": "Lawyer; Secretary of Public Works and Highways; House of Representatives; Governor of Southern Leyte",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5636,7 +5636,7 @@
     "born": "November 26, 1981",
     "prior_experience": "Vice Governor of Southern Leyte",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5661,7 +5661,7 @@
     "born": "September 12, 1963",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5686,7 +5686,7 @@
     "born": "June 4, 1996",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5711,7 +5711,7 @@
     "born": "March 3, 1982",
     "prior_experience": "Mayor of Maimbung",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5736,7 +5736,7 @@
     "born": "November 12, 1957",
     "prior_experience": "Businessman; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5761,7 +5761,7 @@
     "born": "May 10, 1942",
     "prior_experience": "Lawyer; Governor of Surigao del Norte; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5786,7 +5786,7 @@
     "born": "September 16, 1970",
     "prior_experience": "Entrepreneur",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5811,7 +5811,7 @@
     "born": "August 6, 1952",
     "prior_experience": "Civil engineer; Department of Public Works and Highways Undersecretary",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5836,7 +5836,7 @@
     "born": "July 9, 1953",
     "prior_experience": "Governor of Surigao del Sur; Mayor of Tandag",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5861,7 +5861,7 @@
     "born": "September 7, 1959",
     "prior_experience": "Agriculturist; Vice Mayor of Taguig; Taguig Municipal Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5886,7 +5886,7 @@
     "born": "August 8, 1974",
     "prior_experience": "Taguig Association of Barangay Captains President",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5911,7 +5911,7 @@
     "born": "April 12, 1997",
     "prior_experience": "Entrepreneur",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5936,7 +5936,7 @@
     "born": "November 29, 1959",
     "prior_experience": "Mayor of Tarlac City",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5961,7 +5961,7 @@
     "born": "August 27, 1968",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -5985,7 +5985,7 @@
     "bloc": "Majority",
     "born": "October 6, 1986",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6010,7 +6010,7 @@
     "born": "January 12, 1976",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6035,7 +6035,7 @@
     "born": "February 16, 1993",
     "prior_experience": "Valenzuela City Council",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6060,7 +6060,7 @@
     "born": "June 26, 1977",
     "prior_experience": "Vice Governor of Zambales; Mayor of Subic; Zambales Provincial Board",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6085,7 +6085,7 @@
     "born": "October 20, 1964",
     "prior_experience": "Mayor of Botolan",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6110,7 +6110,7 @@
     "born": "April 11, 1992",
     "prior_experience": "Real estate broker",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6135,7 +6135,7 @@
     "born": "July 9, 1971",
     "prior_experience": "Zamboanga City Association of Barangay Captains President",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6160,7 +6160,7 @@
     "born": "August 29, 1978",
     "prior_experience": "Mayor of Polanco",
     "took_office": "November 13, 2023",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6185,7 +6185,7 @@
     "born": "October 4, 1993",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6210,7 +6210,7 @@
     "born": "April 20, 1978",
     "prior_experience": "Publisher; House of Representatives staff",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6235,7 +6235,7 @@
     "born": "August 20, 1998",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6259,7 +6259,7 @@
     "bloc": "Majority",
     "born": "September 5, 1996",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6284,7 +6284,7 @@
     "born": "September 25, 1974",
     "prior_experience": "Lawyer; Businessman; Zamboanga Sibugay Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6309,7 +6309,7 @@
     "born": "March 18, 1974",
     "prior_experience": "Physician",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6334,7 +6334,7 @@
     "born": "October 6, 1993",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6359,7 +6359,7 @@
     "born": "April 15, 1976",
     "prior_experience": "Businessman",
     "took_office": "June 3, 2026",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6384,7 +6384,7 @@
     "born": "April 27, 1971",
     "prior_experience": "Government employee",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6409,7 +6409,7 @@
     "born": "September 20, 1963",
     "prior_experience": "Commissioner of the Bureau of Immigration; House of Representatives; Vice Governor of Eastern Samar",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6433,7 +6433,7 @@
     "bloc": "Minority",
     "born": "March 18, 1994",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6458,7 +6458,7 @@
     "born": "January 9, 1958",
     "prior_experience": "Government employee",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6483,7 +6483,7 @@
     "born": "August 10, 1966",
     "prior_experience": "Businessman; Negros Occidental Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6508,7 +6508,7 @@
     "born": "September 2, 1962",
     "prior_experience": "House of Representatives",
     "took_office": "October 2, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6533,7 +6533,7 @@
     "born": "April 19, 1970",
     "prior_experience": "Consultant; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6557,7 +6557,7 @@
     "bloc": "Majority",
     "born": "February 5, 1961",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6582,7 +6582,7 @@
     "born": "August 22, 1980",
     "prior_experience": "Businessman",
     "took_office": "March 11, 2026",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6607,7 +6607,7 @@
     "born": "September 23, 1959",
     "prior_experience": "Farmer; Businessman; House of Representatives",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6631,7 +6631,7 @@
     "bloc": "Majority",
     "born": "November 22, 1986",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6656,7 +6656,7 @@
     "born": "February 23, 1961",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6681,7 +6681,7 @@
     "born": "September 6, 1976",
     "prior_experience": "National Youth Commission",
     "took_office": "September 25, 2024",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6706,7 +6706,7 @@
     "born": "February 26, 1985",
     "prior_experience": "Private resort manager",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6731,7 +6731,7 @@
     "born": "October 3, 1976",
     "prior_experience": "Lawyer; Mayor of Legazpi; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6756,7 +6756,7 @@
     "born": "January 24, 1991",
     "prior_experience": "Lawyer",
     "took_office": "January 26, 2026",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6781,7 +6781,7 @@
     "born": "February 2, 1969",
     "prior_experience": "Engineer",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6806,7 +6806,7 @@
     "born": "November 10, 1981",
     "prior_experience": "Architect",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6831,7 +6831,7 @@
     "born": "October 15, 1979",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6856,7 +6856,7 @@
     "born": "December 18, 1991",
     "prior_experience": "House of Representatives",
     "took_office": "October 2, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6881,7 +6881,7 @@
     "born": "April 11, 1961",
     "prior_experience": "Dinagat Island Electric Cooperative General Manager",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6906,7 +6906,7 @@
     "born": "January 19, 1992",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6931,7 +6931,7 @@
     "born": "June 25, 1973",
     "prior_experience": "Businessman; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6956,7 +6956,7 @@
     "born": "January 13, 1986",
     "prior_experience": "Lawyer; House of Representatives",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -6981,7 +6981,7 @@
     "born": "October 6, 1946",
     "prior_experience": "Educator; Evangelist",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7005,7 +7005,7 @@
     "bloc": "Majority",
     "born": "August 3, 1965",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7030,7 +7030,7 @@
     "born": "September 24, 1959",
     "prior_experience": "Civil engineer; Businessman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7055,7 +7055,7 @@
     "born": "December 2, 1985",
     "prior_experience": "Davao del Sur Sangguniang Kabataan Federation President",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7080,7 +7080,7 @@
     "born": "April 16, 1992",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7105,7 +7105,7 @@
     "born": "October 18, 1989",
     "prior_experience": "Activist; House of Representatives",
     "took_office": "September 23, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7130,7 +7130,7 @@
     "born": "January 16, 1990",
     "prior_experience": "Lawyer; Commission on Appointments staff",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7155,7 +7155,7 @@
     "born": "November 3, 1997",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7180,7 +7180,7 @@
     "born": "August 30, 1968",
     "prior_experience": "Businesswoman",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7205,7 +7205,7 @@
     "born": "August 13, 1996",
     "prior_experience": "Union organizer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7230,7 +7230,7 @@
     "born": "February 27, 1990",
     "prior_experience": "Registered nurse",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7255,7 +7255,7 @@
     "born": "October 19, 1993",
     "prior_experience": "Civil engineer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7280,7 +7280,7 @@
     "born": "October 16, 1990",
     "prior_experience": "Vice Mayor of Maimbung , Sulu",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7305,7 +7305,7 @@
     "born": "October 9, 1973",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7330,7 +7330,7 @@
     "born": "October 30, 1954",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7355,7 +7355,7 @@
     "born": "September 21, 1976",
     "prior_experience": "Supervising legislative officer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7380,7 +7380,7 @@
     "born": "August 27, 1959",
     "prior_experience": "Lawyer; Senate; Secretary of Justice",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7405,7 +7405,7 @@
     "born": "October 10, 1989",
     "prior_experience": "Organizational special assistant",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7430,7 +7430,7 @@
     "born": "November 10, 1965",
     "prior_experience": "Secretary of Agriculture; House of Representatives; Governor of Bohol",
     "took_office": "October 2, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7455,7 +7455,7 @@
     "born": "September 27, 1972",
     "prior_experience": "Restaurant owner; Businesswoman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7480,7 +7480,7 @@
     "born": "November 16, 1991",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7505,7 +7505,7 @@
     "born": "January 3, 1966",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7530,7 +7530,7 @@
     "born": "—",
     "prior_experience": "National Youth Commission Commissioner-at-Large; House of Representatives staff",
     "took_office": "May 20, 2026",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7555,7 +7555,7 @@
     "born": "August 7, 1978",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7580,7 +7580,7 @@
     "born": "October 29, 1983",
     "prior_experience": "Balanga City Council",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7605,7 +7605,7 @@
     "born": "August 15, 1976",
     "prior_experience": "Business executive",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7630,7 +7630,7 @@
     "born": "December 12, 1952",
     "prior_experience": "Government employee",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7655,7 +7655,7 @@
     "born": "August 30, 1978",
     "prior_experience": "Mayor of La Paz; Vice Mayor of La Paz",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7680,7 +7680,7 @@
     "born": "July 14, 1960",
     "prior_experience": "President and CEO of the Social Security System; President of the Government Service Insurance System",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7705,7 +7705,7 @@
     "born": "August 10, 1969",
     "prior_experience": "Business owner; Entrepreneur; Bukidnon Provincial Board",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7730,7 +7730,7 @@
     "born": "August 1, 1963",
     "prior_experience": "Mechanical engineer; Vice Governor of Catanduanes; Mayor of Baras",
     "took_office": "June 30, 2019",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7755,7 +7755,7 @@
     "born": "February 21, 2000",
     "prior_experience": "Businessman",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7780,7 +7780,7 @@
     "born": "October 13, 1982",
     "prior_experience": "Policy analyst",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7805,7 +7805,7 @@
     "born": "August 14, 1981",
     "prior_experience": "Registered nurse; House of Representatives",
     "took_office": "July 16, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7830,7 +7830,7 @@
     "born": "September 14, 1991",
     "prior_experience": "Lawyer",
     "took_office": "June 30, 2025",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7855,7 +7855,7 @@
     "born": "July 7, 1962",
     "prior_experience": "Trade union leader; Lawyer; House of Representatives",
     "took_office": "October 5, 2016",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7880,7 +7880,7 @@
     "born": "November 27, 1946",
     "prior_experience": "House of Representatives",
     "took_office": "November 7, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   },
@@ -7904,7 +7904,7 @@
     "bloc": "Majority",
     "born": "December 29, 1975",
     "took_office": "June 30, 2022",
-    "wikipedia_revision": "1380869784"
+    "wikipedia_revision": "1381380052"
    },
    "source_type": "public"
   }

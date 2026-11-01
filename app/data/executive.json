@@ -1,11 +1,11 @@
 {
  "dataset": "executive",
  "source_url": "https://www.wikidata.org/",
- "scraped_at": "2026-10-18T20:51:25+00:00",
+ "scraped_at": "2026-11-01T22:12:15+00:00",
  "count": 32,
  "method": "public",
  "source_label": "Wikidata (public, CC0)",
- "fetched_at": "2026-10-18T20:51:25+00:00",
+ "fetched_at": "2026-11-01T22:12:15+00:00",
  "records": [
   {
    "id": "president-nationwide-bongbong-marcos",
@@ -78,7 +78,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Ferdinand \"Bongbong\" Romualdez Marcos Jr., commonly referred to by the initials BBM or PBBM, is a Filipino politician who has served as the 17th president of the Philippines since 2022. He is the second child and only son of 10th president Ferdinand Marcos and former first lady Imelda Marcos.",
+   "summary": "Ferdinand Romualdez \"Bongbong\" Marcos Jr., commonly referred to by the initials BBM or PBBM, is a Filipino politician who has served as the 17th president of the Philippines since 2022. He is the second child and only son of 10th president Ferdinand Marcos and former first lady Imelda Marcos.",
    "summary_source": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
    "laws_signed": 316,
    "laws_lapsed": 73,
@@ -130,7 +130,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Emilio Aguinaldo y Famy was a Filipino revolutionary, politician, and military leader who served as president of the Philippines from 1899 to 1901, and the president of the first constitutional republic in Asia. He led Philippine forces first against Spain in the Philippine Revolution (1896–1898), then in the Spanish–American War (1898), and later against the United States during the Philippine–American War (1899–1901). He is regarded in the Philippines as the country's first president during the period of the First Philippine Republic, although his presidency was not widely recognized outside of the revolutionary Philippines.",
+   "summary": "Emilio Aguinaldo y Famy was a Filipino revolutionary, statesman, and military leader who served as president of the Philippines from 1899 to 1901, and the president of the first constitutional republic in Asia. He led Philippine forces first against Spain in the Philippine Revolution (1896–1898), then in the Spanish–American War (1898), and later against the United States during the Philippine–American War (1899–1901). He is regarded in the Philippines as the country's first president during the period of the First Philippine Republic, although his presidency was not widely recognized outside of the revolutionary Philippines.",
    "summary_source": "https://en.wikipedia.org/wiki/Emilio_Aguinaldo",
    "laws_note": "before_data"
   },
@@ -1295,7 +1295,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Rodrigo Roa Duterte is a Filipino politician who served as the 16th president of the Philippines from 2016 to 2022. He served as mayor of Davao City for three non-consecutive terms between 1988 and 2016. Duterte is the first Philippine president from Mindanao, and the oldest person to assume office, beginning his term at age 71. Duterte is the chairman of PDP–Laban, the ruling party during his presidency.",
+   "summary": "Rodrigo Roa Duterte is a Filipino lawyer and politician who served as the 16th president of the Philippines from 2016 to 2022. He served as mayor of Davao City for three non-consecutive terms between 1988 and 2016. Duterte is the first Philippine president from Mindanao, and the oldest person to assume office, beginning his term at age 71. Duterte is the chairman of PDP–Laban, the ruling party during his presidency.",
    "summary_source": "https://en.wikipedia.org/wiki/Rodrigo_Duterte",
    "laws_signed": 703,
    "laws_lapsed": 161,
@@ -1372,7 +1372,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Sara Zimmerman Duterte-Carpio, commonly known as Inday Sara, is a Filipino lawyer and politician who is the 15th and current vice president of the Philippines. She is the third female vice president, the third vice president to come from Mindanao, and the youngest ever Philippine vice president. A daughter of the 16th president Rodrigo Duterte, she is the leading figure of Dutertismo, the political ideology associated with her father. Duterte previously served as the mayor of Davao City from 2010 to 2013, and from 2016 to 2022. Duterte was also Davao City's vice mayor from 2007 to 2010.",
+   "summary": "Sara Zimmerman Duterte-Carpio, commonly known as Inday Sara, is a Filipino lawyer and politician who is the 15th and current vice president of the Philippines. She is the third female vice president, the third vice president to come from Mindanao, and the youngest ever Philippine vice president. A daughter of the 16th president Rodrigo Duterte. She previously served as the mayor of Davao City from 2010 to 2013, and from 2016 to 2022. She was also Davao City's vice mayor from 2007 to 2010.",
    "summary_source": "https://en.wikipedia.org/wiki/Sara_Duterte"
   },
   {

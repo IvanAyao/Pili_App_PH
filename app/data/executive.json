@@ -1,11 +1,11 @@
 {
  "dataset": "executive",
  "source_url": "https://www.wikidata.org/",
- "scraped_at": "2026-11-01T22:12:15+00:00",
+ "scraped_at": "2026-11-08T22:12:53+00:00",
  "count": 32,
  "method": "public",
  "source_label": "Wikidata (public, CC0)",
- "fetched_at": "2026-11-01T22:12:15+00:00",
+ "fetched_at": "2026-11-08T22:12:53+00:00",
  "records": [
   {
    "id": "president-nationwide-bongbong-marcos",
@@ -78,7 +78,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Ferdinand Romualdez \"Bongbong\" Marcos Jr., commonly referred to by the initials BBM or PBBM, is a Filipino politician who has served as the 17th president of the Philippines since 2022. He is the second child and only son of 10th president Ferdinand Marcos and former first lady Imelda Marcos.",
+   "summary": "Ferdinand \"Bongbong\" Romualdez Marcos Jr., commonly referred to by the initials BBM or PBBM, is a Filipino politician who has served as the 17th president of the Philippines since 2022. He is the second child and only son of 10th president Ferdinand Marcos and former first lady Imelda Marcos.",
    "summary_source": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
    "laws_signed": 316,
    "laws_lapsed": 73,
@@ -130,7 +130,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Emilio Aguinaldo y Famy was a Filipino revolutionary, statesman, and military leader who served as president of the Philippines from 1899 to 1901, and the president of the first constitutional republic in Asia. He led Philippine forces first against Spain in the Philippine Revolution (1896–1898), then in the Spanish–American War (1898), and later against the United States during the Philippine–American War (1899–1901). He is regarded in the Philippines as the country's first president during the period of the First Philippine Republic, although his presidency was not widely recognized outside of the revolutionary Philippines.",
+   "summary": "Emilio Aguinaldo y Famy was a Filipino revolutionary, statesman, and military leader who served as president of the Philippines from 1899 to 1901, and the president of the first constitutional republic in Asia. He led Philippine forces first against Restoration-era Spain in the Philippine Revolution (1896–1898), then in the Spanish–American War (1898), and later against the United States during the Philippine–American War (1899–1901). He is regarded in the Philippines as the country's first president during the period of the First Philippine Republic, although his presidency was not widely recognized outside of the revolutionary Philippines.",
    "summary_source": "https://en.wikipedia.org/wiki/Emilio_Aguinaldo",
    "laws_note": "before_data"
   },

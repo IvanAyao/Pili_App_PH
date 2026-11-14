@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T22:15:33+00:00",
+ "generated_at": "2026-11-14T21:00:42+00:00",
  "datasets": [
   {
    "key": "senate",
@@ -44,7 +44,7 @@
    "source": "DILG – Barangay Officials Directory",
    "source_url": "https://www.dilg.gov.ph/barangay-officials-directory",
    "count": 4784,
-   "scraped_at": "2026-11-13T22:11:38+00:00",
+   "scraped_at": "2026-11-14T20:56:48+00:00",
    "source_type": "official"
   },
   {

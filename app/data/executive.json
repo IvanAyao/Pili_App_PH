@@ -1,11 +1,11 @@
 {
  "dataset": "executive",
  "source_url": "https://www.wikidata.org/",
- "scraped_at": "2026-11-08T22:12:53+00:00",
+ "scraped_at": "2026-11-15T22:59:53+00:00",
  "count": 32,
  "method": "public",
  "source_label": "Wikidata (public, CC0)",
- "fetched_at": "2026-11-08T22:12:53+00:00",
+ "fetched_at": "2026-11-15T22:59:53+00:00",
  "records": [
   {
    "id": "president-nationwide-bongbong-marcos",
@@ -2203,7 +2203,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Teofisto \"Tito\" Tayko Guingona Jr. is a Filipino statesman and diplomat who served as the 11th vice president of the Philippines from 2001 to 2004, during the first term of President Gloria Macapagal Arroyo. Born in San Juan, he is a graduate of Ateneo de Manila University, where he was a working student.",
+   "summary": "Teofisto \"Tito\" Tayko Guingona Jr. is a Filipino statesman, lawyer and diplomat who served as the 11th vice president of the Philippines from 2001 to 2004, during the first term of President Gloria Macapagal Arroyo. Born in San Juan, he is a graduate of Ateneo de Manila University, where he was a working student.",
    "summary_source": "https://en.wikipedia.org/wiki/Teofisto_Guingona_Jr."
   },
   {

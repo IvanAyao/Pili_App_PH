@@ -1,11 +1,11 @@
 {
  "dataset": "executive",
  "source_url": "https://www.wikidata.org/",
- "scraped_at": "2026-11-15T22:59:53+00:00",
+ "scraped_at": "2026-11-22T23:48:12+00:00",
  "count": 32,
  "method": "public",
  "source_label": "Wikidata (public, CC0)",
- "fetched_at": "2026-11-15T22:59:53+00:00",
+ "fetched_at": "2026-11-22T23:48:12+00:00",
  "records": [
   {
    "id": "president-nationwide-bongbong-marcos",
@@ -1134,7 +1134,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Maria Gloria Macaraeg Macapagal-Arroyo, often referred to as PGMA or GMA, is a Filipino academic and politician who served as the 14th president of the Philippines from 2001 to 2010. She is the longest-serving president since Ferdinand Marcos. Before her presidency, she was the 10th vice president of the Philippines from 1998 to 2001 under President Joseph Estrada, becoming the first female vice president. She was also a senator from 1992 to 1998. After her presidency, she was elected as the representative of Pampanga's 2nd district in 2010 and continues to serve in this role. She also served as the speaker of the House from 2018 to 2019, and as deputy speaker from 2016 to 2017 and 2022 to 2023. Alongside former President Sergio Osmeña, she is one of only two Filipinos to hold at least three of the four highest offices: vice president, president, and house speaker.",
+   "summary": "Maria Gloria Macaraeg Macapagal-Arroyo, often referred to as PGMA or GMA, is a Filipino academic and politician who served as the 14th president of the Philippines from 2001 to 2010. She is the longest-serving president since Ferdinand Marcos. Before her presidency, she was the 10th vice president of the Philippines from 1998 to 2001 under President Joseph Estrada, becoming the first female vice president. She was also a senator from 1992 to 1998. After her presidency, she was elected as the representative of Pampanga's 2nd district in 2010 and continues to serve in this role. She also served as the speaker of the House from 2018 to 2019, becoming the first woman to hold the office and lead in either chamber of Congress, and as deputy speaker from 2016 to 2017 and 2022 to 2023. Alongside former President Sergio Osmeña, she is one of only two Filipinos to hold at least three of the four highest offices: vice president, president, and house speaker.",
    "summary_source": "https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo",
    "laws_signed": 39,
    "laws_lapsed": 13,
@@ -2141,7 +2141,7 @@
     }
    ],
    "successive_terms": 1,
-   "summary": "Maria Gloria Macaraeg Macapagal-Arroyo, often referred to as PGMA or GMA, is a Filipino academic and politician who served as the 14th president of the Philippines from 2001 to 2010. She is the longest-serving president since Ferdinand Marcos. Before her presidency, she was the 10th vice president of the Philippines from 1998 to 2001 under President Joseph Estrada, becoming the first female vice president. She was also a senator from 1992 to 1998. After her presidency, she was elected as the representative of Pampanga's 2nd district in 2010 and continues to serve in this role. She also served as the speaker of the House from 2018 to 2019, and as deputy speaker from 2016 to 2017 and 2022 to 2023. Alongside former President Sergio Osmeña, she is one of only two Filipinos to hold at least three of the four highest offices: vice president, president, and house speaker.",
+   "summary": "Maria Gloria Macaraeg Macapagal-Arroyo, often referred to as PGMA or GMA, is a Filipino academic and politician who served as the 14th president of the Philippines from 2001 to 2010. She is the longest-serving president since Ferdinand Marcos. Before her presidency, she was the 10th vice president of the Philippines from 1998 to 2001 under President Joseph Estrada, becoming the first female vice president. She was also a senator from 1992 to 1998. After her presidency, she was elected as the representative of Pampanga's 2nd district in 2010 and continues to serve in this role. She also served as the speaker of the House from 2018 to 2019, becoming the first woman to hold the office and lead in either chamber of Congress, and as deputy speaker from 2016 to 2017 and 2022 to 2023. Alongside former President Sergio Osmeña, she is one of only two Filipinos to hold at least three of the four highest offices: vice president, president, and house speaker.",
    "summary_source": "https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo"
   },
   {
